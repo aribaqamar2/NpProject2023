@@ -1,0 +1,26 @@
+npm init 
+-- to install package.js
+
+
+npm install express socket.io moment
+
+-- express : web frame work
+-- socket.io : frame work dealing with web socket
+-- moment.js : use to format date and time
+
+npm install -D nodemon
+-- D :  dev dependency 
+-- nodemon : just to not restarting server again and again after changes
+
+
+npm start
+-- server Start
+
+
+emit mean show messege
+
+qs cdn :query string
+https://cdnjs.com/libraries/qs
+we take a script from this site
+
+
